@@ -2,9 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=E.%20Andreevich%20👨‍💻&fontSize=40&fontAlignY=35)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=500&color=3EB489&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+E.+Andreevich;MLOps+%2F+ML+Engineer+%26+Student;From+Novosibirsk%2C+Russia;Dream%3A+Work+in+Yandex!+🚀" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -30,7 +27,6 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logo=opencv&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Unix](https://img.shields.io/badge/Unix-003545?style=for-the-badge&logo=gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
