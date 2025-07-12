@@ -7,6 +7,7 @@
 ## 🚀 About Me
 
 - 🧑‍🎓 18 y.o. Russian developer from **Novosibirsk, Russia**
+- 👨‍💻 Programming since I was 13 years old
 - 🎓 MLOps/Machine Learning Engineer & Student
 - 🌱 Passionate about ML, Deep Learning, and building cool things with code
 - 👀 Dreaming to become an ML Engineer at Yandex!
@@ -23,6 +24,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD43B?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-003545?style=for-the-badge&logo=gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
