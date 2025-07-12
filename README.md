@@ -2,10 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=E.%20Andreevich%20👨‍💻&fontSize=40&fontAlignY=35)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=500&color=3EB489&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+E.+Andreevich;MLOps+%2F+ML+Engineer+%26+Student;From+Novosibirsk%2C+Russia;Dream%3A+Work+in+Yandex!+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🚀 About Me
