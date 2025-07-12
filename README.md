@@ -2,14 +2,19 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=E.%20Andreevich%20👨‍💻&fontSize=40&fontAlignY=35)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=500&color=3EB489&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+E.+Andreevich;MLOps+%2F+ML+Engineer+%26+Student;From+Novosibirsk%2C+Russia;Dream%3A+Work+in+Yandex!+🚀" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
 - 🧑‍🎓 18 y.o. Russian developer from **Novosibirsk, Russia**
 - 👨‍💻 Programming since I was 13 years old
+- 🏆 Finalist in NTO Olympiad & participant in multiple hackathons
 - 🎓 MLOps/Machine Learning Engineer & Student
-- 🌱 Passionate about ML, Deep Learning, and building cool things with code
+- 🌱 Passionate about ML, Deep Learning, Computer Vision, and building cool things with code
 - 👀 Dreaming to become an ML Engineer at Yandex!
 
 ---
@@ -23,6 +28,7 @@
 ![aiogram](https://img.shields.io/badge/aiogram-2C2F3A?style=for-the-badge&logo=telegram&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD43B?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logo=opencv&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Unix](https://img.shields.io/badge/Unix-003545?style=for-the-badge&logo=gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -44,7 +50,7 @@
 
 ---
 
-## ✨ Animated Stats
+## ✨ Account Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XRomanchikX&show_icons=true&theme=radical" alt="E. Andreevich's GitHub stats" height="180"/>
@@ -52,6 +58,10 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=XRomanchikX&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XRomanchikX&theme=radical" alt="Summary Card" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=XRomanchikX&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophy" height="140"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XRomanchikX&color=blue" alt="Profile Views"/>
