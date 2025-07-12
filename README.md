@@ -1,9 +1,9 @@
-# 👋 Hi, I'm XRomanchikX!
+# 👋 Hi, I'm E. Andreevich!
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=XRomanchikX%20👨‍💻&fontSize=40&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=E.%20Andreevich%20👨‍💻&fontSize=40&fontAlignY=35)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=500&color=3EB489&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+XRomanchikX;MLOps+%2F+ML+Engineer+%26+Student;From+Novosibirsk%2C+Russia;Dream%3A+Work+in+Yandex!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=500&color=3EB489&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+E.+Andreevich;MLOps+%2F+ML+Engineer+%26+Student;From+Novosibirsk%2C+Russia;Dream%3A+Work+in+Yandex!+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## ✨ Animated Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XRomanchikX&show_icons=true&theme=radical" alt="XRomanchikX's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XRomanchikX&show_icons=true&theme=radical" alt="E. Andreevich's GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XRomanchikX&layout=compact&theme=radical" alt="Top Langs" height="180"/>
 </p>
 <p align="center">
