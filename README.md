@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm XRomanchikX!
 
-<!--
-**XRomanchikX/XRomanchikX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=XRomanchikX%20👨‍💻&fontSize=40&fontAlignY=35)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍🎓 18 y.o. Russian developer
+- 🎓 MLOps/Machine Learning Engineer & Student
+- 🌱 Passionate about ML, Deep Learning, and building cool things with code
+- 👀 Dreaming to become an ML Engineer at Yandex!
+
+## 🛠️ Top Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD43B?style=flat&logo=scikit-learn&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+## 🧠 Notable Project
+
+- [**NeurofaceID**](https://github.com/XRomanchikX/NeurofaceID) – Advanced face recognition using neural networks!
+
+## 🌟 Hobbies
+
+- 💻 Programming, experimenting with new tech
+- 🧠 Learning and contributing to MLOps
+- 🚀 Dream: Work as an ML Engineer at Yandex
+
+## 📫 Connect with Me
+
+<!-- Add your social links below when ready! -->
+<!-- [LinkedIn](#) · [Twitter](#) · [Personal Website](#) -->
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
